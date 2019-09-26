@@ -9,6 +9,11 @@
       <change beforePath="$PROJECT_DIR$/resources/views/projects/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/projects/show.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
+    <list default="true" id="6ffe95ec-0c1e-4705-b73b-ed942e82fe2d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/console.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/console.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,13 +123,14 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/projects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\myfirstapp" />
       <recent name="C:\tmp\myfirstapp\resources\views\projects" />
     </key>
   </component>
@@ -162,6 +168,8 @@
       <workItem from="1568635119886" duration="9269000" />
       <workItem from="1568711147095" duration="1554000" />
       <workItem from="1568804476520" duration="4688000" />
+      <workItem from="1568722536340" duration="497000" />
+      <workItem from="1568723060305" duration="3383000" />
     </task>
     <servers />
   </component>
